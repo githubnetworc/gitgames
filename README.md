@@ -9,12 +9,12 @@
 </h1>
 
 <p align="center">
- Cool games and more.All rights reserved to Cohen Erickson
+ Cool games and more. All rights reserved to Cohen Erickson
 </p>
   
-- 📈 Play from our **rapidly growing** selection of games
-- 🏫 **Unblock websites** with our built in web proxy
-- 🫣 **Hide from teachers** using the tab cloak setting
+-tons of games
+-built in search engine
+-tab cloaking
 
 ### Installation
 
