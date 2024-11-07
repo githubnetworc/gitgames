@@ -28,8 +28,7 @@ pnpm run build
 pnpm run preview
 ```
 
-### Where to get help
+### Something Wrong?
 
-For questions and suggestions please join our [Discord server](https://discord.gg/C2fbK35Rhg)
 
-For any website/game issues please create a new GitHub issue
+For any issues please create a new GitHub issue
