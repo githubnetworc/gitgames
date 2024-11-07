@@ -1,8 +1,4 @@
-<p align="center">
-  <kbd>
-    <img width="100px" src="https://avatars.githubusercontent.com/u/107269758">
-  </kbd>
-</p>
+
 
 <h1 align="center">
   gitgames
