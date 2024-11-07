@@ -13,7 +13,9 @@
 </p>
   
 -tons of games
--built in search engine
+
+-built-in search engine
+
 -tab cloaking
 
 ### Installation
