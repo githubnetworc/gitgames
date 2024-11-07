@@ -5,11 +5,11 @@
 </p>
 
 <h1 align="center">
-  Radon Games
+  gitgames
 </h1>
 
 <p align="center">
-  An open-source unblocked games website built with simplicity in mind.
+ Cool games and more.All rights reserved to Cohen Erickson
 </p>
   
 - 📈 Play from our **rapidly growing** selection of games
